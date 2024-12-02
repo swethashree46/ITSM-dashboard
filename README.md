@@ -1,21 +1,30 @@
-ITSM Dashboard
-Overview
-An interactive ITSM dashboard built using Power BI to visualize and analyze key service metrics, including incident management, request fulfillment, and system performance.
 
-Features
-Visualizes ticket lifecycle: from creation to resolution.
-Provides real-time insights into service desk performance.
-Analyzes incident trends and response times.
-Interactive filtering and drill-down for in-depth analysis.
-Technologies Used
-Power BI
-SQL (for data retrieval)
-Excel (for data processing)
-Key Benefits
-Supports data-driven decision-making.
-Helps improve response times and service efficiency.
-Provides a comprehensive overview of service desk operations.
-Installation
-Clone the repository.
-Open the Power BI project file (.pbix).
-Connect to the data source (SQL/Excel).
+# ITSM Dashboard
+
+## Overview
+An interactive Power BI dashboard designed for tracking and analyzing IT service management data. This dashboard provides real-time insights into incident, request, and change management processes, enhancing decision-making and service efficiency.
+
+## Features
+- Visualizes incidents, service requests, and change management data.
+- Provides insights on ticket resolution times, priority, and status.
+- Tracks the number of tickets opened and resolved by various teams.
+- Allows filtering by service category, status, and priority to drill deeper into ITSM operations.
+- Interactive charts and KPIs for performance tracking.
+
+## Technologies Used
+- Power BI
+- ITSM Data (e.g., ServiceNow, BMC Remedy)
+- Power Query and DAX (for data transformation and analysis)
+
+## Key Benefits
+- Provides visibility into IT service performance and bottlenecks.
+- Helps track key metrics like ticket resolution times and incident categories.
+- Supports decision-making and process improvements in IT service management.
+
+## Installation
+1. Clone the repository.
+2. Import the provided data sources (if applicable) into Power BI.
+3. Open the Power BI file (.pbix) to explore interactive dashboards and visualizations.
+
+---
+
